@@ -1,3 +1,14 @@
+# This a sample project with React router 
+Oncec the application is started list of top rated movies are fetched and are movie posters are displayed on screen 
+ON click to any poster details of the movies like Name, tagline, budget and overview are shown
+
+Learning React router basics was the agenda of this project
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
