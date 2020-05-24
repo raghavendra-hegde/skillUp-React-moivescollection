@@ -4,7 +4,7 @@ ON click to any poster details of the movies like Name, tagline, budget and over
 
 Learning React router basics was the agenda of this project
 
-
+Movies are fetched from external source - "https://api.themoviedb.org/"
 
 
 
